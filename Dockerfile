@@ -6,5 +6,5 @@ WORKDIR /one
 
 COPY . .
 
-CMD ["python3", "one.py"]
+CMD ["python3", "One.py"]
 
